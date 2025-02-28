@@ -1,5 +1,7 @@
 # Automatic OIIAI Synthsizer 
 
+Generate OIIAI Cat remix from any input music containing vocal using AI.
+
 ## Requirements
 
 ```
