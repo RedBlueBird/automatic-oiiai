@@ -18,4 +18,4 @@ Depending on the tempo and richness of the input lyrics, 1 minute of music takes
 
 ## Credits
 
-The automatic OIIAI algorithm utilizes two separate AI models: [Spleeter](https://github.com/deezer/spleeter) for vocal isolation, [VocalExtractor](https://github.com/s603122001/Vocal-Melody-Extraction) for vocal melody extraction.
+The automatic OIIAI algorithm utilizes two separate AI models: [Spleeter](https://github.com/deezer/spleeter) for vocal isolation, [Vocal-Melody-Extraction](https://github.com/s603122001/Vocal-Melody-Extraction) for vocal melody extraction.
