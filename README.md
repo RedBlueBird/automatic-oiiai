@@ -7,6 +7,7 @@ Generate OIIAI Cat remix from any input music containing vocal using AI.
 ```
 python=3.7
 tensorflow=2.9
+spleeter_2.4
 librosa=0.10
 soundfile=0.13
 ```
