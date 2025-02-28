@@ -12,7 +12,7 @@ soundfile=0.13
 ## How to use
 Download the repository locally.
 
-Under project directory, run command in terminal `python CatSynthsize.py -i {input_audio_file_path}`
+Under project directory, run command in terminal `python CatSynthsize.py -i {input_audio_file_path}`. If input path empty, it is defaulted to `train01.wav`.
 
 Depending on the tempo and richness of the input lyrics, 1 minute of music takes about 1-6 minutes to process.
 
