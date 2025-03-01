@@ -19,6 +19,8 @@ Under project directory, run command in terminal `python CatSynthsize.py -i {inp
 
 Depending on the tempo and richness of the input music, 1 minute takes about 1-6 minutes to process.
 
+The output will show up in the same directory with the name `synthesized-output.wav`.
+
 ## Credits
 
 The automatic OIIAI algorithm utilizes two separate AI models: [Spleeter](https://github.com/deezer/spleeter) for vocal isolation, [Vocal-Melody-Extraction](https://github.com/s603122001/Vocal-Melody-Extraction) for vocal melody extraction.
